@@ -1,0 +1,7 @@
+name: InfernoNPCs
+description: The NPC plugin for the Inferno Network
+version: 1.0.0
+main: network.inferno.npcs.Main
+author: Xiis
+api-version: 1.15
+depend: [ProtocolLib]

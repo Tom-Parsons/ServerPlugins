@@ -1,0 +1,7 @@
+name: InfernoLobby
+description: The Lobby plugin for the Inferno Network
+version: 1.0.0
+main: network.inferno.lobby.Main
+author: Xiis
+api-version: 1.15
+depend: [InfernoCore]

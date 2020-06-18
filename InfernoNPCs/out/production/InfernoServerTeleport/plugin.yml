@@ -1,0 +1,6 @@
+name: InfernoServerTeleport
+description: The server teleport plugin for the Inferno Network
+version: 1.0.0
+main: com.xiis.infernoserverteleport.main.Main
+author: Xiis
+api-version: 1.15

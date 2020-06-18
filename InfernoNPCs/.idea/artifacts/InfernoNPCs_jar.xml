@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfernoNPCs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfernoNPCs_jar</output-path>
+    <root id="archive" name="InfernoNPCs.jar">
+      <element id="module-output" name="InfernoNPCs" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfernoGladiators:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfernoGladiators_jar</output-path>
+    <root id="archive" name="InfernoGladiators.jar">
+      <element id="module-output" name="InfernoGladiators" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MinigameAPI/out/artifacts/MinigameAPI_jar/MinigameAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

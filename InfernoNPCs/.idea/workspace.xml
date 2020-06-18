@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InfernoNPCs:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67a68df7-3fcd-4938-92a1-9a4267e3483f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7tDakSPY6rSxhvQMg9MPGDgpY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Servers/1.15.2/plugins/SubServers.Client.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\Plugins\InfernoServerTeleport\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a68df7-3fcd-4938-92a1-9a4267e3483f" name="Default Changelist" comment="" />
+      <created>1587994840730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587994840730</updated>
+      <workItem from="1587994843388" duration="9166000" />
+      <workItem from="1588005387575" duration="219000" />
+      <workItem from="1588014612418" duration="1508000" />
+      <workItem from="1588202108429" duration="8888000" />
+      <workItem from="1588244825969" duration="3095000" />
+      <workItem from="1588274656371" duration="14000" />
+      <workItem from="1588274913009" duration="121000" />
+      <workItem from="1588280138153" duration="7000" />
+      <workItem from="1588352612395" duration="12604000" />
+      <workItem from="1588370595573" duration="2079000" />
+      <workItem from="1588511484286" duration="2610000" />
+      <workItem from="1588596960629" duration="350000" />
+      <workItem from="1588611817722" duration="607000" />
+      <workItem from="1588675128700" duration="1206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1588202588484">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588202588484" />
+    <state x="1144" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588207333444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1144" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588207333444" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1588511913965">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588511913965" />
+    <state x="3355" y="534" key="FileChooserDialogImpl/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1588353176119" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1588511915127">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588511915127" />
+    <state x="3130" y="386" key="SettingsEditor/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1588353177758" />
+    <state x="1010" y="466" key="extract.method.dialog" timestamp="1588361947448">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="466" key="extract.method.dialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588361947448" />
+    <state x="911" y="397" width="737" height="606" key="find.popup" timestamp="1587999669347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="911" y="397" width="737" height="606" key="find.popup/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587999669347" />
+    <state x="662" y="320" key="new project wizard" timestamp="1588371049344">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="320" key="new project wizard/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588371049344" />
+    <state x="1077" y="424" width="672" height="678" key="search.everywhere.popup" timestamp="1588250217299">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1077" y="424" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588250217299" />
+  </component>
+</project>

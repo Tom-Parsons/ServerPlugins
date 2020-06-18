@@ -1,0 +1,8 @@
+name: InfernoCosmetics
+description: The cosmetic plugin for the Inferno Network
+version: 1.0.0
+main: com.xiis.infernocosmetics.main.Main
+author: Xiis
+database: true
+api-version: 1.15
+depend: [InfernoCore]

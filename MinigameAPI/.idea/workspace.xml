@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MinigameAPI:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="160c03cb-8030-4251-baec-ff16166ca752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bPbJkZGVSreczHXCcG7NjfZzeI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repos/InfernoDevelopment/InfernoCore/target/InfernoCore-1.0-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="160c03cb-8030-4251-baec-ff16166ca752" name="Default Changelist" comment="" />
+      <created>1588536605258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588536605258</updated>
+      <workItem from="1588536609606" duration="2880000" />
+      <workItem from="1589059180880" duration="28000" />
+      <workItem from="1589114059022" duration="42000" />
+      <workItem from="1589114363278" duration="1239000" />
+      <workItem from="1589187175103" duration="5308000" />
+      <workItem from="1589206687028" duration="6000" />
+      <workItem from="1589547214698" duration="1359000" />
+      <workItem from="1589561259484" duration="1253000" />
+      <workItem from="1589713194495" duration="288000" />
+      <workItem from="1589723753527" duration="3545000" />
+      <workItem from="1589793275433" duration="1215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1588538586182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588538586182" />
+    <state x="1110" y="410" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589724148113">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="410" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589724148113" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589725284664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589725284664" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1589724159894">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589724159894" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1589724162133">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589724162133" />
+    <state x="662" y="320" key="new project wizard" timestamp="1589114097480">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="320" key="new project wizard/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589114097480" />
+  </component>
+</project>

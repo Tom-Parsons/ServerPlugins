@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InfernoCosmetics:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96f71869-b26e-4cec-a187-947e9ec4c469" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1audlqG38B2KWGyYERxcahhA0Ge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repos/InfernoDevelopment/InfernoCore/target/InfernoCore-1.0-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\Plugins\InfernoCosmetics\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\Plugins\InfernoCosmetics\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96f71869-b26e-4cec-a187-947e9ec4c469" name="Default Changelist" comment="" />
+      <created>1587589566313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587589566313</updated>
+      <workItem from="1587589610395" duration="987000" />
+      <workItem from="1587677990096" duration="2092000" />
+      <workItem from="1587756072443" duration="2399000" />
+      <workItem from="1587758641345" duration="2504000" />
+      <workItem from="1587770644026" duration="1775000" />
+      <workItem from="1587814844650" duration="28425000" />
+      <workItem from="1587862415060" duration="779000" />
+      <workItem from="1587898519786" duration="9540000" />
+      <workItem from="1587994719381" duration="4031000" />
+      <workItem from="1588017628185" duration="1278000" />
+      <workItem from="1588082713814" duration="2331000" />
+      <workItem from="1588167015869" duration="1198000" />
+      <workItem from="1588193430662" duration="11000" />
+      <workItem from="1588201601180" duration="506000" />
+      <workItem from="1588510996630" duration="486000" />
+      <workItem from="1588679798806" duration="5165000" />
+      <workItem from="1589460280150" duration="1274000" />
+      <workItem from="1589546214358" duration="776000" />
+      <workItem from="1589561259291" duration="102000" />
+      <workItem from="1589728524092" duration="604000" />
+      <workItem from="1589797771841" duration="10141000" />
+      <workItem from="1589887405288" duration="1242000" />
+      <workItem from="1589982632785" duration="7276000" />
+      <workItem from="1592501632405" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="359" key="#Getter_Template" timestamp="1587834459268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Getter_Template/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587834459268" />
+    <state x="736" y="481" key="#Project_Structure" timestamp="1587756170847">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="481" key="#Project_Structure/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587756170847" />
+    <state x="3112" y="554" key="#Project_Structure/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1587680392239" />
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1587834460641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587834460641" />
+    <state x="1010" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587759124324">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587759124324" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587900271793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587900271793" />
+    <state x="3300" y="671" key="FileChooserDialogImpl" timestamp="1589797947768">
+      <screen x="2560" y="197" width="1920" height="1040" />
+    </state>
+    <state x="987" y="638" key="FileChooserDialogImpl/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588680296802" />
+    <state x="3300" y="671" key="FileChooserDialogImpl/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1589797947768" />
+    <state x="3130" y="386" key="SettingsEditor" timestamp="1589797949540">
+      <screen x="2560" y="197" width="1920" height="1040" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588680297939" />
+    <state x="3130" y="386" key="SettingsEditor/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1589797949540" />
+    <state x="1010" y="466" key="extract.method.dialog" timestamp="1588690200580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="466" key="extract.method.dialog/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1588690200580" />
+    <state x="3243" y="433" width="607" height="804" key="find.popup" timestamp="1587997260231">
+      <screen x="2560" y="197" width="1920" height="1040" />
+    </state>
+    <state x="911" y="397" width="737" height="606" key="find.popup/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587845961504" />
+    <state x="3243" y="433" width="607" height="804" key="find.popup/0.0.2560.1400/2560.197.1920.1040@2560.197.1920.1040" timestamp="1587997260231" />
+    <state x="662" y="320" key="new project wizard" timestamp="1587994840684">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="320" key="new project wizard/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1587994840684" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1589985913847">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.197.1920.1040@0.0.2560.1400" timestamp="1589985913847" />
+  </component>
+</project>

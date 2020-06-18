@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfernoLobby:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfernoLobby_jar</output-path>
+    <root id="archive" name="InfernoLobby.jar">
+      <element id="module-output" name="InfernoLobby" />
+    </root>
+  </artifact>
+</component>

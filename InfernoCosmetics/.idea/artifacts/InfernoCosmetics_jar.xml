@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfernoCosmetics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfernoCosmetics_jar</output-path>
+    <root id="archive" name="InfernoCosmetics.jar">
+      <element id="module-output" name="InfernoCosmetics" />
+    </root>
+  </artifact>
+</component>
